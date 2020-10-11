@@ -77,7 +77,7 @@ Previamente realicé mi tesis de maestría con el Dr. Gordon Semenoff en [PHAS](
 Aquí está mi [tesis de maestría](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0166503). 
 Tiene algunas malinterplretaciones físicas que arreglamos en este [artículo](https://link.springer.com/article/10.1007/JHEP11(2016)083).
 
-Mi físico favorito es Albert Einstein, mi físoco matemático favorito es Sir Roger Penrose y mi matemático favorito es Sir Michael Atiyah.
+Mi físico favorito es Albert Einstein, mi físico matemático favorito es Sir Roger Penrose y mi matemático favorito es Sir Michael Atiyah.
 
 He aprendido mucho de las clases y pláticas impartidas en [PIRSA](http://pirsa.org/) del Perimeter Institute. 
 Recomiendo [este blog](https://www.math.columbia.edu/~woit/wordpress/) con noticias y discusiones interesantes acerca de 
