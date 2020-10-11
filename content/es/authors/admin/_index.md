@@ -21,19 +21,19 @@ organizations:
 bio: 
 
 interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+- Aplicaciones de topología algebráica a la física
+- Fases topológicas de la materia
+- Física matemática
 
 education:
   courses:
-  - course: PhD in Mathematics
+  - course: Doctorado en Matemáticas
     institution: University of British Columbia
     year: 2020
-  - course: MSc in Physics
+  - course: Maestría en Física
     institution: University of British Columbia
     year: 2015
-  - course: BSc in Mathematics
+  - course: Licenciatura en Matemáticas
     institution: Universidad Nacional Autónoma de México
     year: 2013
 
@@ -69,13 +69,16 @@ email: ""
 #- Researchers
 #- Visitors
 ---
+Realicé mi doctorado en el [departamento de Matemáticas](https://www.math.ubc.ca) de la 
+Universidad de British Columbia con el [Dr. Alejandro Adem](http://www.math.ubc.ca/~adem/) y el 
+[Dr. Cihan Okay](http://cihan.okay.bilkent.edu.tr/).
 
-I am a PhD student in the department of Mathematics at the University of British Columbia under the cosupervison of Dr. Alejandro Adem and Dr.Cihan Okay . I'm expected to defend my PhD on December 2019.
+Previamente realicé mi tesis de maestría con el Dr. Gordon Semenoff en [PHAS](https://phas.ubc.ca/), UBC. 
+Aquí está mi [tesis de maestría](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0166503). 
+Tiene algunas malinterplretaciones físicas que arreglamos en este [artículo](https://link.springer.com/article/10.1007/JHEP11(2016)083).
 
-Previously I did my MSc in Physics under Dr.Gordon W. Semenoff 's supervision at PHAS , UBC. Here is my MSc Thesis , which has some physical missinterpretations, which were fixed on our paper.
+Mi físico favorito es Albert Einstein, mi físoco matemático favorito es Sir Roger Penrose y mi matemático favorito es Sir Michael Atiyah.
 
-Before that, I did my undergrad in mathematics at the Faculty of Sciences, UNAM , doing an undergrad thesis (written in spanish) on Simulations of boson-fermion stars in 3+1 numerical relativity , directed by Dr. Miguel Alcubierre.
-
-In case you were curious, my favourite Physicist is Albert Einstein, my favourite Mathematical physicist is Sir Roger Penrose and my favourite Mathematician is Sir Michael Atiyah.
-
-I've learned many things from the lectures and talks given at the Perimeter's institute PIRSA . I recommend this blog for interesting discussions and good criticisms on current physics and mathematics as well as relevant news in these fields.
+He aprendido mucho de las clases y pláticas impartidas en [PIRSA](http://pirsa.org/) del Perimeter Institute. 
+Recomiendo [este blog](https://www.math.columbia.edu/~woit/wordpress/) con noticias y discusiones interesantes acerca de 
+temas de actualidad en física y matemáticas.
