@@ -78,4 +78,4 @@ Before that, I did my undergrad in mathematics at the Faculty of Sciences, UNAM,
 
 In case you were curious, my favourite physicist is Albert Einstein, my favourite mathematical physicist is Sir Roger Penrose and my favourite Mathematician is Sir Michael Atiyah.
 
-I've learned many things from the lectures and talks given at the Perimeter's institute [PIRSA](http://pirsa.org/). I recommend [this blog] (https://www.math.columbia.edu/~woit/wordpress/) for interesting discussions and good criticisms on current physics and mathematics as well as relevant news in these fields.
+I've learned many things from the lectures and talks given at the Perimeter's institute [PIRSA](http://pirsa.org/). I recommend [this blog](https://www.math.columbia.edu/~woit/wordpress/) for interesting discussions and good criticisms on current physics and mathematics as well as relevant news in these fields.
