@@ -67,6 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
+* **Sheinbaum, D.** (2020) Solitons in Weakly Non-linear Topological Systems: Linearization, Equivariant Cohomology and K-theory. arXiv preprint [arXiv:2012.04673] (https://arxiv.org/abs/2012.04673)
 * **Sheinbaum, D.**, & Camarena, O. A. (2020). Crystallographic Interacting Topological Phases and Equvariant Cohomology: To assume or not to assume. arXiv preprint [arXiv:2007.06595.](https://arxiv.org/abs/2007.06595)
-* Okay, C., & **Sheinbaum, D**. (2019). Classifying space for quantum contextuality. arXiv preprint [arXiv:1905.07723](https://arxiv.org/abs/1905.07723).
+* Okay, C., & **Sheinbaum, D**. (2019). Classifying space for quantum contextuality. **Accepted** in Annales Henri Poincaré. See also arXiv preprint [arXiv:1905.07723](https://arxiv.org/abs/1905.07723).
 * Adem, A., Camarena, O. A., Semenoff, G. W., & **Sheinbaum, D.** (2016). Topology of Fermi surfaces and anomaly inflows. Journal of High Energy Physics, 2016(11), 83.

@@ -21,15 +21,15 @@ organizations:
 bio: 
 
 interests:
-- Aplicaciones de topología algebráica a la física
 - Fases topológicas de la materia
+- Aplicaciones de topología algebraica a la física
 - Física matemática
 
 education:
   courses:
   - course: Doctorado en Matemáticas
     institution: University of British Columbia
-    year: 2020
+    year: 2019
   - course: Maestría en Física
     institution: University of British Columbia
     year: 2015

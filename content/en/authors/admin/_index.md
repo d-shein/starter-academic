@@ -21,15 +21,15 @@ organizations:
 bio: 
 
 interests:
-- Applications of algebraic topology to physics
 - Topological phases of matter
-- Mathemathical physics
+- Applications of algebraic topology to physics
+- Mathematical physics
 
 education:
   courses:
   - course: PhD in Mathematics
     institution: University of British Columbia
-    year: 2020
+    year: 2019
   - course: MSc in Physics
     institution: University of British Columbia
     year: 2015
